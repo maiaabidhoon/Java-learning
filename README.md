@@ -175,9 +175,9 @@ This project is open-source and available under the **MIT License**.
 
 ## 👨‍💻 Author
 
-**Aabid Husain**
-**Uzma**
-**Sheetal**
+**Aabid Husain**\
+**Uzma**\
+**Sheetal**\
 
 AI & Software Developer
 MCA (AI & Data Science)
