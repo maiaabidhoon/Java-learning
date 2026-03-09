@@ -101,7 +101,7 @@ java-roadmap-tracker/Schedule
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/java-roadmap-tracker.git
+git clone https://github.com/maiaabidhoon/java-roadmap-tracker.git
 ```
 
 ### 2️⃣ Open the Project
