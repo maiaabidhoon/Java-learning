@@ -177,7 +177,7 @@ This project is open-source and available under the **MIT License**.
 
 **Aabid Husain**\
 **Uzma**\
-**Sheetal**\
+**Sheetal**
 
 AI & Software Developer
 MCA (AI & Data Science)
